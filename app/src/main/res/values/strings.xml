@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Currency Converter Kotlin</string>
+    <string name="to">To</string>
+    <string name="moeda_de_destino">Moeda de Destino</string>
+    <string name="moeda_de_origem">Moeda de Origem</string>
+    <string name="convert">Converter</string>
+    <string name="preencher_amount">Por favor, preencha um valor para ser convertido</string>
+    <string name="resultado">Resultado: </string>
+</resources>
