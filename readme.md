@@ -1,4 +1,4 @@
-# App de Conversor de Moedas com Kotlin
+# App Conversor de Moedas com Kotlin
 ## Foi utilizado:
 Arquitetura MVVM<br>
 Consumo de web services<br>
