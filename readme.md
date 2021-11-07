@@ -1,8 +1,8 @@
 # App de Conversor de Moedas com Kotlin
 ## Foi utilizado:
-Arquitetura MVVM
-Consumo de web services
-Retrofit (para realizar as chamadas as apis)
+Arquitetura MVVM<br>
+Consumo de web services<br>
+Retrofit (para realizar as chamadas as apis)<br>
 View Binding (para interação com o layout)
 
 ## Telas do aplicativo:
@@ -19,5 +19,5 @@ View Binding (para interação com o layout)
  <br>
 
 ### APIs utilizadas:
-https://api.getgeoapi.com/api/v2/
+https://api.getgeoapi.com/api/v2/<br>
 https://openexchangerates.org/api/
